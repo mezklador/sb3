@@ -1,0 +1,829 @@
+{
+	"folder_history":
+	[
+		"/run/user/1000/gvfs/sftp:host=192.168.0.50,user=root/home/www/bunker",
+		"/home/zef/Sites/bunker",
+		"/home/zef/.config/sublime-text-3/Packages",
+		"/home/zef/Téléchargements",
+		"/run/user/1000/gvfs/sftp:host=raspserver.local,user=root/root/www/midzurb/source",
+		"/home/zef/Sites/protomiddle",
+		"/home/zef/Sites/middleFull",
+		"/home/zef/Sites/sandbox/HTML/localstorage_properties",
+		"/home/zef/Sites/sandbox/HTML/localstorage",
+		"/home/zef/Téléchargements/CLAWS/Themes",
+		"/home/zef/Sites/protomiddle/source",
+		"/home/zef/Sites/middle_man",
+		"/home/zef/Documents/DIVERS",
+		"/home/zef/Téléchargements/CSS FRAMEWORKS",
+		"/home/zef/Téléchargements/TOR",
+		"/home/zef/Sites",
+		"/home/zef/Sites/homestead/site",
+		"/home/zef/Sites/lara"
+	],
+	"last_version": 3059,
+	"last_window_id": 28,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 640.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"text",
+						"textValue"
+					],
+					[
+						"strto",
+						"strtoupper"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 179.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"html",
+						"Snippet: html"
+					],
+					[
+						"bs3-nav",
+						"Snippet: bs3-navbar-fixed-top"
+					],
+					[
+						"bs3-html",
+						"Snippet: bs3-html5-template"
+					],
+					[
+						"lorem",
+						"LoremIpsum: (200) stick shake"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 529.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/zef/Sites/bunker/app/database/seeds/DatabaseSeeder.php",
+				"/home/zef/.config/sublime-text-3/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
+				"/home/zef/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/zef/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/zef/.cache/.fr-wk87xT/zshrc",
+				"/home/zef/Sites/middleFull/source/javascripts/main.js.coffee",
+				"/home/zef/.cache/.fr-D9x8Ii/hashA0A0A0/.claws_themeinfo",
+				"/home/zef/.cache/.fr-oFJvgg/hashA0A0A0/README",
+				"/home/zef/Sites/protomiddle/source/stylesheets/_application.scss",
+				"/home/zef/Sites/protomiddle/source/stylesheets/_vendor/_variables.scss",
+				"/home/zef/Sites/protomiddle/source/about.html.haml",
+				"/home/zef/Sites/protomiddle/config.rb",
+				"/home/zef/Sites/protomiddle/source/index.html.haml",
+				"/home/zef/Sites/protomiddle/helpers/site_helpers.rb",
+				"/home/zef/Sites/protomiddle/source/javascripts/dev.js",
+				"/run/user/1000/gvfs/sftp:host=mozkd.tk,user=root/home/http/sandbox/pdf2txt.php",
+				"/run/user/1000/gvfs/sftp:host=llii.fr,user=root/home/www/jway/lara/Incremental_APIs/video.php",
+				"/run/user/1000/gvfs/sftp:host=llii.fr,user=root/home/www/jway/lara/from_scratch/index.php",
+				"/run/user/1000/gvfs/sftp:host=llii.fr,user=root/home/www/jway/lara/from_scratch/video.php",
+				"/run/user/1000/gvfs/sftp:host=llii.fr,user=root/home/www/jway/lara/digging_it/video.php",
+				"/run/user/1000/gvfs/sftp:host=llii.fr,user=root/home/www/jway/lara/digging_it/index.php",
+				"/run/user/1000/gvfs/sftp:host=llii.fr,user=root/home/www/jway/lara/casts/video.php",
+				"/run/user/1000/gvfs/sftp:host=llii.fr,user=root/home/www/jway/lara/casts/index.php",
+				"/home/zef/Sites/adminer.php",
+				"/run/user/1000/gvfs/sftp:host=mozkd.tk,user=root/home/http/geoip.php",
+				"/run/user/1000/gvfs/sftp:host=llii.fr,user=root/home/www/jway/lara/Be_awesome_with_phpstorm/index.php",
+				"/run/user/1000/gvfs/sftp:host=llii.fr,user=root/home/www/jway/lara/Incremental_APIs/index.php",
+				"/home/zef/Sites/lara/public/index.php",
+				"/home/zef/Sites/lara/vendor/symfony/process/Symfony/Component/Process/Tests/ProcessInSigchildEnvironment.php",
+				"/home/zef/Sites/lara/app/routes.php",
+				"/run/user/1000/gvfs/sftp:host=llii.fr,user=root/home/www/heisenberg/index.php"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"user",
+					"users",
+					"link",
+					"css"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 196.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1227.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"text",
+						"textValue"
+					],
+					[
+						"strto",
+						"strtoupper"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/zef/Sites/protomiddle/source/_nav.haml",
+					"settings":
+					{
+						"buffer_size": 304,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/zef/Sites/protomiddle/source/stylesheets/_application.scss",
+					"settings":
+					{
+						"buffer_size": 2024,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/zef/Sites/protomiddle/source/stylesheets/_vendor/_variables.scss",
+					"settings":
+					{
+						"buffer_size": 29851,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/zef/Sites/protomiddle/source/layouts/default.haml",
+					"settings":
+					{
+						"buffer_size": 1182,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 179.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"html",
+						"Snippet: html"
+					],
+					[
+						"bs3-nav",
+						"Snippet: bs3-navbar-fixed-top"
+					],
+					[
+						"bs3-html",
+						"Snippet: bs3-html5-template"
+					],
+					[
+						"lorem",
+						"LoremIpsum: (200) stick shake"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 529.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/zef/Sites/bunker/app/database/seeds/DatabaseSeeder.php",
+				"/home/zef/.config/sublime-text-3/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
+				"/home/zef/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/zef/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/zef/.cache/.fr-wk87xT/zshrc",
+				"/home/zef/Sites/middleFull/source/javascripts/main.js.coffee",
+				"/home/zef/.cache/.fr-D9x8Ii/hashA0A0A0/.claws_themeinfo",
+				"/home/zef/.cache/.fr-oFJvgg/hashA0A0A0/README",
+				"/home/zef/Sites/protomiddle/source/stylesheets/_application.scss",
+				"/home/zef/Sites/protomiddle/source/stylesheets/_vendor/_variables.scss",
+				"/home/zef/Sites/protomiddle/source/about.html.haml",
+				"/home/zef/Sites/protomiddle/config.rb",
+				"/home/zef/Sites/protomiddle/source/index.html.haml",
+				"/home/zef/Sites/protomiddle/helpers/site_helpers.rb",
+				"/home/zef/Sites/protomiddle/source/javascripts/dev.js",
+				"/run/user/1000/gvfs/sftp:host=mozkd.tk,user=root/home/http/sandbox/pdf2txt.php",
+				"/run/user/1000/gvfs/sftp:host=llii.fr,user=root/home/www/jway/lara/Incremental_APIs/video.php",
+				"/run/user/1000/gvfs/sftp:host=llii.fr,user=root/home/www/jway/lara/from_scratch/index.php",
+				"/run/user/1000/gvfs/sftp:host=llii.fr,user=root/home/www/jway/lara/from_scratch/video.php",
+				"/run/user/1000/gvfs/sftp:host=llii.fr,user=root/home/www/jway/lara/digging_it/video.php",
+				"/run/user/1000/gvfs/sftp:host=llii.fr,user=root/home/www/jway/lara/digging_it/index.php",
+				"/run/user/1000/gvfs/sftp:host=llii.fr,user=root/home/www/jway/lara/casts/video.php",
+				"/run/user/1000/gvfs/sftp:host=llii.fr,user=root/home/www/jway/lara/casts/index.php",
+				"/home/zef/Sites/adminer.php",
+				"/run/user/1000/gvfs/sftp:host=mozkd.tk,user=root/home/http/geoip.php",
+				"/run/user/1000/gvfs/sftp:host=llii.fr,user=root/home/www/jway/lara/Be_awesome_with_phpstorm/index.php",
+				"/run/user/1000/gvfs/sftp:host=llii.fr,user=root/home/www/jway/lara/Incremental_APIs/index.php",
+				"/home/zef/Sites/lara/public/index.php",
+				"/home/zef/Sites/lara/vendor/symfony/process/Symfony/Component/Process/Tests/ProcessInSigchildEnvironment.php",
+				"/home/zef/Sites/lara/app/routes.php",
+				"/run/user/1000/gvfs/sftp:host=llii.fr,user=root/home/www/heisenberg/index.php"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"link",
+					"css"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/home/zef/Sites/protomiddle"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/zef/Sites/protomiddle/source/_nav.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 304,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										27,
+										27
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"WordCountShouldRun": true,
+									"bh_regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/base16-ocean.dark (SL).tmTheme",
+									"syntax": "Packages/Rails/Ruby Haml.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/zef/Sites/protomiddle/source/stylesheets/_application.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2024,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1092,
+										1092
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"WordCountShouldRun": true,
+									"bh_regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/base16-ocean.dark (SL).tmTheme",
+									"syntax": "Packages/SCSS/SCSS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/zef/Sites/protomiddle/source/stylesheets/_vendor/_variables.scss",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 29851,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1418,
+										1418
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"WordCountShouldRun": true,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/base16-ocean.dark (SL).tmTheme",
+									"syntax": "Packages/SCSS/SCSS.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 3629.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/zef/Sites/protomiddle/source/layouts/default.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1182,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										674,
+										674
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"WordCountShouldRun": true,
+									"bh_regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/base16-ocean.dark (SL).tmTheme",
+									"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,0,1,0,0,0,0,0,0,1440,900",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 196.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 20,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

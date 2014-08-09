@@ -1,0 +1,24 @@
+{
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_with_fields": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/base16-ocean.dark (SL).tmTheme",
+	"default_encoding": "UTF-8",
+	"detect_indentation": true,
+	"font_face": "Source Code Pro",
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"spacegray_sidebar_font_small": true,
+	"spacegray_sidebar_tree_small": true,
+	"spacegray_tabs_auto_width": true,
+	"spacegray_tabs_font_small": true,
+	"spacegray_tabs_large": true,
+	"theme": "Spacegray.sublime-theme",
+	"word_wrap": true
+}

@@ -1,0 +1,9 @@
+{
+	"syntax":
+	{
+		"HTML": 13,
+		"PHP": 15,
+		"laravel-blade": 17
+	},
+	"time": 1407451562
+}

@@ -1,0 +1,30 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"ApacheConf.tmLanguage",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"CoffeeComplete Plus (Autocompletion)",
+		"Color Highlighter",
+		"CSS3",
+		"Emmet",
+		"Emmet Css Snippets",
+		"HTML Boilerplate",
+		"jQuery",
+		"jQuery Snippets for Coffeescript",
+		"Laravel 4 Facades",
+		"Laravel 4 Snippets",
+		"Laravel Blade Highlighter",
+		"LoremIpsum",
+		"Phpcs",
+		"Sass",
+		"SASS Snippets",
+		"SCSS",
+		"SCSS Expander",
+		"SCSS Snippets",
+		"SublimeLinter",
+		"Theme - Spacegray",
+		"WordCount"
+	]
+}
